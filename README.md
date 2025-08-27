@@ -37,7 +37,15 @@ Landing Page moderna para restaurante especializado em frango frito, desenvolvid
     ```bash
     #Simplesmente abra o aquivo index.html no seu navegador
 ---
+## 🌐 Site Online
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Site-brightgreen?style=flat&logo=github)](https://vitorbarbosa-dev.github.io/Frango-Do-Vitor-website/)
+
+🔗 **https://vitorbarbosa-dev.github.io/Frango-Do-Vitor-website/**
+
+
 ## 📸 Preview do Projeto
+
 ![Preview do Site Frango do Vitor](./FangoPreview.png)
 
 ## 📋 O que Aprendi
